@@ -31,7 +31,3 @@ The repository contains the following files:
 
 Contributions to this repository are welcome! If you find any issues or have improvements to suggest, feel free to submit a pull request.
 
-
-## Acknowledgments
-
-The SQL queries in this repository were developed as part of a data cleaning project. We would like to acknowledge the contributions of the data cleaning team involved.
